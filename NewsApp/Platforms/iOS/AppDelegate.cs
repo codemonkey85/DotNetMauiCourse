@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace FruitsApp;
+namespace NewsApp;
 
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate

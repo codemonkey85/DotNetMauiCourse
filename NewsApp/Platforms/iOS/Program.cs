@@ -1,6 +1,6 @@
 ﻿using UIKit;
 
-namespace FruitsApp;
+namespace NewsApp;
 
 public class Program
 {

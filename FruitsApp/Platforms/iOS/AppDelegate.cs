@@ -1,6 +1,7 @@
 ﻿using Foundation;
 
 namespace FruitsApp;
+
 [Register("AppDelegate")]
 public class AppDelegate : MauiUIApplicationDelegate
 {
